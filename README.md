@@ -25,7 +25,6 @@
 
 7. Escribe un programa que pida la altura y el peso y muestre el imc de esa persona:
    <https://www.texasheart.org/heart-health/heart-information-center/topics/calculadora-del-indice-de-masa-corporal-imc/>
-   Escribe un programa que determine si el número introducido termina en 5 (positivo o negativo)
    *(14 puntos)*
 
 
