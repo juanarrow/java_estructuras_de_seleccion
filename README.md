@@ -1,4 +1,4 @@
-**Realiza los siguientes programas en PSeInt y pega tu pseudocódigo justo a continuación del enunciado**
+**Ejercicios sencillos de estructuras de selección**
 
 1. Escribe un programa que pida el nombre, los apellidos y el sexo y muestre en la salida: *Bienvenido, Sr./Sra. “Nombre y apellidos”
    (3 puntos)*
